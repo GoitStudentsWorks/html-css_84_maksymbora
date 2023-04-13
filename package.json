@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Web4you/",
+    "build": "vite build --base=/html-css_84_maksymbora/",
     "preview": "vite preview"
   },
   "devDependencies": {
